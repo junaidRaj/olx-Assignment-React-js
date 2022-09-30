@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.Icoon{
+  width: 7% !important;
+  height: 10vh !important; 
+}
+.iconDone:hover{
+    color: lightblue !important;
+    cursor: pointer;
+}
+.look{
+  font-size: 13px !important;
+  font-weight: bold;
+  margin-top: 12px;
+}
+.Back{
+  background-color: rgb(224, 227, 229) !important;
+}
+li{
+  list-style: none;
+  color: lightslategray;
+  font-size: 12px;
+  text-align: left;
+  text-align: center;
+}
