@@ -6,8 +6,6 @@ import Search from "./Search";
 
 function App() {
   return (<>
-  
-   
    <Search/>
    </>
   );
